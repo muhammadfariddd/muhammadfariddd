@@ -4,7 +4,7 @@
 - 💞️ I'm looking to collaborate on Movie Catalogue project
 - 📫 How to reach me on 
 <a href="https://www.instagram.com/farid.sugi/" target="_blank">Instagram</a>, and
-<a href="https://www.linkedin.com/in/Muhammad Farid/" target="_blank">LinkedIn</a>, 
+<a href="https://www.linkedin.com/in/muhammad-fariddd/" target="_blank">LinkedIn</a>, 
 
 <!---
 muhammadfariddd/muhammadfariddd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
